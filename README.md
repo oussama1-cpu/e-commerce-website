@@ -6,6 +6,7 @@ This project is a website designed to sell all kinds of products online
 * [java](https://www.javascript.org/)
 * [css](https://www.css.org/)
 * [Html](https://www.Html.org/)
+* [staruml](https://www.staruml.org/)
 
 
 ### Install
@@ -18,6 +19,7 @@ This project is a website designed to sell all kinds of products online
 
 ### Usage
 its e website to seel all kinds of products online
+in this project i use star uml for more detaille this  projet 
 
 this is example ;[Documentation](https://www.amazon.com/Books-Martin-Seel/s?rh=n%3A283155%2Cp_27%3AMartin+Seel).
 
@@ -32,6 +34,7 @@ I used:
     Html
     css
     js
+    staruml
     
  ### website picture 
 
